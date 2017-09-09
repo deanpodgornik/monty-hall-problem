@@ -1,4 +1,4 @@
-# Monty hall problem - simulation
+# Monty Hall problem - simulation
 
 A simulation written in nodejs, demonstrate the probability of success when selecting the alternative door.
 

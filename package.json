@@ -1,14 +1,14 @@
 {
   "name": "monty-hall-problem",
   "version": "1.0.0",
-  "description": "Monty hall problem simulation",
+  "description": "Monty Hall problem simulation",
   "main": "simulation.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/deanpodgornik/monty-hall-problem.git"
+    "url": "git+https://github.com/deanpodgornik/monty-hall-problem.git"
   },
   "keywords": [
     "Monty",
@@ -16,5 +16,5 @@
   ],
   "author": "Dean Podgornik",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/deanpodgornik/monty-hall-problem#readme"
+  "homepage": "http://www.deanpodgornik.si"
 }
